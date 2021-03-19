@@ -26,7 +26,7 @@ docutils==0.14
 future==0.16.0
 gunicorn==19.7.1
 idna==2.6
-Jinja2==2.9.6
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jmespath==0.9.3
 MarkupSafe==1.0
