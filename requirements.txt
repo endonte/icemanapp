@@ -47,5 +47,5 @@ s3transfer==0.1.10
 six==1.10.0
 sqlparse==0.2.3
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 whichcraft==0.4.1
